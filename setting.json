@@ -1,0 +1,6 @@
+{
+    "TOKEN": "YOUR TOKEN",
+    "command_prefix":"-",
+    "owner":owner_id(int),
+    "webhook":"webhook url (在使用機器人的頻道建立webhook吧)"
+}
